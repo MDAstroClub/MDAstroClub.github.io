@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MDAC's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MDAstroClub/MDAstroClub.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
